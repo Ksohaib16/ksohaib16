@@ -54,13 +54,9 @@ Focused on **Node.js, NestJS, Laravel**, and modern JavaScript stacks.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ksohaib16&theme=tokyo-night&hide_border=true"
-    alt="GitHub contribution activity"
+    src="https://streak-stats.demolab.com?user=ksohaib16&theme=tokyonight&hide_border=true"
+    alt="GitHub daily contribution streak"
   />
 </p>
 
 ---
-
-<p align="center">
-  <sub>Consistent progress, meaningful projects, clean code.</sub>
-</p>
