@@ -32,7 +32,7 @@ Focused on **Node.js, NestJS, Laravel**, and modern JavaScript stacks.
 ## 🔗 Links
 - **LinkedIn** → https://linkedin.com/in/ksohaib16  
 - **X (Twitter)** → https://x.com/ksohaib16  
-- **Email** → mailto:YoSohaibk@gmail.com  
+- **Email** → YoSohaibk@gmail.com  
 
 ---
 
