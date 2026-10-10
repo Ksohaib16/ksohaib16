@@ -8,7 +8,7 @@ Focused on **Node.js, NestJS, Laravel**, and modern JavaScript stacks.
 ## ⚙️ Core Stack
 
 **Backend**
-- Node.js · NestJS · Express · Fastify
+- Node.js · NestJS · Express 
 - PHP · Laravel
 
 **Frontend**
